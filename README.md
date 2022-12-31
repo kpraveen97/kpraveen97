@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Praveen, Frontend Developer
+- 👋 Hi, I’m Praveen. A Software Engineer based in Surat.
 - 👀 I’m interested in Web Development & Web Technologies.
